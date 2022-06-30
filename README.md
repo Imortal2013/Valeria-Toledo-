@@ -3,7 +3,7 @@ Atualização de Perfil
 Desenvolvedora front-end e criadora de conteúdo de programação e tecnologica.
 Atualmente aprendendo Angular e Type Script, e desenvolvendo jogos e aplicativos em JS.
 
-## Sou a Valeria Toledo, criadora de conteúdo de programação e tecnologia!
+## Valeria Toledo, criadora de conteúdo de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/Imortal2013">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Imortal2013&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -25,10 +25,12 @@ Atualmente aprendendo Angular e Type Script, e desenvolvendo jogos e aplicativos
 <div> 
   <a href="https://www.youtube.com/channel/UCd5liLjdI2WaEIdmC5njslA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/valtoledonikit/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://codepen.io/soutoledo/" target="_blank"><img src="https://res.cloudinary.com/css-tricks/images/f_auto,q_auto/v1642454945/codepen-wordmark-display-inside-white@10x_163987fcdd/codepen-wordmark-display-inside-white@10x_163987fcdd.png?_i=AA" target="_blank"></a> 
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  https://codepen.io/soutoledo/pen/WNMrEPe
+  
+    ![WELCOME](https://codepen.io/soutoledo/pen/WNMrEPe)
  
 </div>
